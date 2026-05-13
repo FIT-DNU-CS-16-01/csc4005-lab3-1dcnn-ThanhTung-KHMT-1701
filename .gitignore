@@ -1,3 +1,5 @@
+.github
+
 # Python
 __pycache__/
 *.py[cod]
@@ -8,7 +10,6 @@ venv/
 # Data and generated artifacts
 data/
 .cache/
-outputs/*
 !outputs/.gitkeep
 *.zip
 *.tar.gz
